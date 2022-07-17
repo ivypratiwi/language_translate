@@ -24,4 +24,4 @@ Running the notebook will return an excel sheet `.xlsx` and `.txt` files for the
 3. Open `translation_english_to_LOTE.ipynb` in Jupyter Notebook.
 4. Run each cell.
 
-_More explanation is available in the Jupyter Notebook._
+_More explanation is available in the `translation_english_to_LOTE.ipynb` notebook._
