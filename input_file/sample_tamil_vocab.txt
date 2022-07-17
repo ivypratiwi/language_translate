@@ -1,0 +1,21 @@
+english
+1. Magistrate - குற்றவியல் நடுவர்
+2. Office - அலுவலகம்
+3. Lawyer - வழக்கறிஞர்
+4. Application - விண்ணப்பம்
+5. Appointment - முன்னேற்பாடு / நியமேம் / உத்தினயாகம்
+6. Intervention - தலலயீடு
+7. Council - மன்றம்
+8. Enquire - விசாரிக்கவும்
+9. Procedure - சசயல்முலற
+10. Bin - சதாட்டி
+11. Landlord - வீட்டு உரிலமயாளர்
+12. Variable - மாறுபடுகிற
+13. Choose - னதர்வு
+14. Option - விருப்பம்
+15. Standard - அடிப்பலை / சரிதிட்ைமாே
+16. Base - சதாைக்க நிலல /அடித்தளம்
+17. Certificate - சான்றிதழ்
+18. Home Loan - வீட்டு கைன்
+19. Advise - ஆனலாசலே
+20. Refugee - அகதி
