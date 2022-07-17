@@ -19,9 +19,9 @@ Running the notebook will return an excel sheet `.xlsx` and `.txt` files for the
 
 ### Installations
 
-1. Clone this repository
-2. Ensure all requirements have been installed
-3. Open `translation_english_to_LOTE` in Jupyter Notebook
-4. Run each cell
+1. Clone this repository.
+2. Ensure all required packages have been installed.
+3. Open `translation_english_to_LOTE.ipynb` in Jupyter Notebook.
+4. Run each cell.
 
-_More explanation is available in the Jupyter Notebook_
+_More explanation is available in the Jupyter Notebook._
